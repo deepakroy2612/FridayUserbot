@@ -20,7 +20,7 @@ USER_BOT_NO_WARN = ("    ╭━━━━━━━╮ \n┃       ● ══    �
                     "**You Have Trespassed To My Boss\n"
                     f"{DEFAULTUSER}'s Inbox**\n\n"
                     f"{CUSTOM_MIDDLE_PMP} \n\n"
-                    "**Send /start  so that we can decide why you're here.😡")
+                    "**Send /start  so that we can decide why you're here.😡😡")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
